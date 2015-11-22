@@ -21,7 +21,7 @@
 #endregion
 
 #region
-
+using TargetSelector = SFXTargetSelector.TargetSelector;
 using System;
 using System.Collections.Generic;
 using System.Linq;
